@@ -1,0 +1,2 @@
+D:\_Projects\OCF_device\Debug\OCF_device.exe
+D:\_Projects\OCF_device\Debug\OCF_device.pdb

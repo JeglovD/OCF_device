@@ -147,7 +147,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Library\Net.cpp" />
     <ClCompile Include="OCF_device.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Library\Net.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
